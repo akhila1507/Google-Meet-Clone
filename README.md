@@ -9,7 +9,7 @@ Try Video Meeting here [https://quiet-waters-11721.herokuapp.com/](https://quiet
 
 ## Project team
 - [@akhila1507](https://github.com/IamAbhi12)
-- [@JasCapasci](https://github.com/YashGargIND)
+- [@JasCapasci](https://github.com/JasCapasci)
 - [@](https://github.com/Avichal1307)
 
 ## Features
