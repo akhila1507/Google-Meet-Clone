@@ -8,7 +8,7 @@
 Try Video Meeting here [https://quiet-waters-11721.herokuapp.com/](https://quiet-waters-11721.herokuapp.com/)
 
 ## Project team
-- [@akhila1507](https://github.com/IamAbhi12)
+- [@akhila1507](https://github.com/akhila1507)
 - [@JasCapasci](https://github.com/JasCapasci)
 - [@](https://github.com/Avichal1307)
 
@@ -45,11 +45,6 @@ Inside the script.js file, change the port number ( e.g. 3000. It's 443 by defau
 
 Start the server
 
-## Screenshots
-Video and Chat 
-
-<img src="https://user-images.githubusercontent.com/92078486/178569938-c1cd8040-27e7-4609-b25a-cc617dae25ba.png" alt="Video on" width="400"/> 
-<img src="https://user-images.githubusercontent.com/92078486/178569957-2f16f898-7d5c-4240-ab92-da8a50611c87.png" alt="Video off" width="400"/> 
 
 Whiteboard
 
