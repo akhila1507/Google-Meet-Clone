@@ -35,7 +35,6 @@ Clone the project
 ```bash
   git clone https://github.com/akhila1507/Google-Meet-Clone
 ```
-or download the zip file.
 
 Go to the project directory and install dependencies
 
