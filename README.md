@@ -1,5 +1,5 @@
 
-# Gmeet-Clone
+# Google-Meet-Clone
 
  A clone of the popular website GMeet which is a video conferencing service from Google.
 
@@ -14,7 +14,7 @@ Try Video Meeting here [https://quiet-waters-11721.herokuapp.com/](https://quiet
 
 ## Features
 
-- video conferencing - Users can organize meets where others could join using the meet ID.
+- Video conferencing - Users can organize meets where others could join using the meet ID.
 - User authentication using Gmail-id.
 - Chatbox where users can chat with others in meet. 
 - Collaborative whiteboard in meet.
@@ -33,7 +33,7 @@ Socket.io, a popular javascript library is used in this project to facilitate re
 Clone the project
 
 ```bash
-  git clone https://github.com/IamAbhi12/gmeet-clone
+  git clone https://github.com/akhila1507/Google-Meet-Clone
 ```
 or download the zip file.
 
